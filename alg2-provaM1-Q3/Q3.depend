@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681865801 source:c:\users\victor\desktop\doc's\cc\segundosemestre\alg2\provam1\q3\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
